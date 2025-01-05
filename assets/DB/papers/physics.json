@@ -1,0 +1,64 @@
+{
+  "id": "ppr005",
+  "title": "Physics",
+  "image_url": "http",
+  "description": "Challenge your understanding of fundamental physics concepts with this quiz!",
+  "time_seconds": 400,
+  "questions": [
+    {
+      "id": "ppr005q001",
+      "question": "What is the unit of force in the International System of Units (SI)?",
+      "answers": [
+        {"identifier": "A", "answer": "Newton"},
+        {"identifier": "B", "answer": "Joule"},
+        {"identifier": "C", "answer": "Watt"},
+        {"identifier": "D", "answer": "Pascal"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr005q002",
+      "question": "What is the speed of light in a vacuum?",
+      "answers": [
+        {"identifier": "A", "answer": "3 x 10^6 m/s"},
+        {"identifier": "B", "answer": "3 x 10^8 m/s"},
+        {"identifier": "C", "answer": "3 x 10^10 m/s"},
+        {"identifier": "D", "answer": "3 x 10^12 m/s"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr005q003",
+      "question": "Which of the following is a scalar quantity?",
+      "answers": [
+        {"identifier": "A", "answer": "Velocity"},
+        {"identifier": "B", "answer": "Force"},
+        {"identifier": "C", "answer": "Energy"},
+        {"identifier": "D", "answer": "Momentum"}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr005q004",
+      "question": "What law explains why passengers move forward in a car when it suddenly stops?",
+      "answers": [
+        {"identifier": "A", "answer": "Newton's First Law"},
+        {"identifier": "B", "answer": "Newton's Second Law"},
+        {"identifier": "C", "answer": "Newton's Third Law"},
+        {"identifier": "D", "answer": "Law of Gravitation"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr005q005",
+      "question": "What is the primary energy source driving the Earth's weather system?",
+      "answers": [
+        {"identifier": "A", "answer": "The Moon"},
+        {"identifier": "B", "answer": "The Sun"},
+        {"identifier": "C", "answer": "Geothermal heat"},
+        {"identifier": "D", "answer": "Tidal forces"}
+      ],
+      "correct_answer": "B"
+    }
+  ]
+}

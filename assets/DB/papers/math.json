@@ -1,0 +1,64 @@
+{
+  "id": "ppr003",
+  "title": "Math",
+  "image_url": "http",
+  "description": "Test your mathematical skills with these challenging questions!",
+  "time_seconds": 600,
+  "questions": [
+    {
+      "id": "ppr003q001",
+      "question": "What is the value of \u221a(49)?",
+      "answers": [
+        {"identifier": "A", "answer": "5"},
+        {"identifier": "B", "answer": "6"},
+        {"identifier": "C", "answer": "7"},
+        {"identifier": "D", "answer": "8"}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr003q002",
+      "question": "Solve: 8 x 7",
+      "answers": [
+        {"identifier": "A", "answer": "54"},
+        {"identifier": "B", "answer": "56"},
+        {"identifier": "C", "answer": "58"},
+        {"identifier": "D", "answer": "60"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr003q003",
+      "question": "What is the perimeter of a square with a side length of 5 units?",
+      "answers": [
+        {"identifier": "A", "answer": "10 units"},
+        {"identifier": "B", "answer": "15 units"},
+        {"identifier": "C", "answer": "20 units"},
+        {"identifier": "D", "answer": "25 units"}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr003q004",
+      "question": "If a triangle has angles 90°, 45°, and 45°, what type of triangle is it?",
+      "answers": [
+        {"identifier": "A", "answer": "Equilateral"},
+        {"identifier": "B", "answer": "Scalene"},
+        {"identifier": "C", "answer": "Isosceles right triangle"},
+        {"identifier": "D", "answer": "Obtuse triangle"}
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "ppr003q005",
+      "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+      "answers": [
+        {"identifier": "A", "answer": "18"},
+        {"identifier": "B", "answer": "20"},
+        {"identifier": "C", "answer": "30"},
+        {"identifier": "D", "answer": "32"}
+      ],
+      "correct_answer": "D"
+    }
+  ]
+}

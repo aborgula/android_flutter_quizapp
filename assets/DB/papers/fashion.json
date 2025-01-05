@@ -1,0 +1,75 @@
+{
+  "id": "ppr001",
+  "title": "Fashion",
+  "image_url": "http",
+  "description": "Explore your knowledge about fashion trends and history with this quiz!",
+  "time_seconds": 600,
+  "questions": [
+    {
+      "id": "ppr001q001",
+      "question": "Which fashion designer is credited with introducing the 'little black dress'?",
+      "answers": [
+        {"identifier": "A", "answer": "Coco Chanel"},
+        {"identifier": "B", "answer": "Christian Dior"},
+        {"identifier": "C", "answer": "Donatella Versace"},
+        {"identifier": "D", "answer": "Giorgio Armani"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr001q002",
+      "question": "What is the term for a temporary style or trend in the fashion world?",
+      "answers": [
+        {"identifier": "A", "answer": "Fad"},
+        {"identifier": "B", "answer": "Classic"},
+        {"identifier": "C", "answer": "Haute couture"},
+        {"identifier": "D", "answer": "Vintage"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr001q003",
+      "question": "Which city is often referred to as the 'Fashion Capital of the World'?",
+      "answers": [
+        {"identifier": "A", "answer": "New York"},
+        {"identifier": "B", "answer": "Paris"},
+        {"identifier": "C", "answer": "Milan"},
+        {"identifier": "D", "answer": "London"}
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "ppr001q004",
+      "question": "What type of fabric is made from flax fibers?",
+      "answers": [
+        {"identifier": "A", "answer": "Silk"},
+        {"identifier": "B", "answer": "Wool"},
+        {"identifier": "C", "answer": "Cotton"},
+        {"identifier": "D", "answer": "Linen"}
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "ppr001q005",
+      "question": "What is the name of the traditional Japanese garment worn during festivals and ceremonies?",
+      "answers": [
+        {"identifier": "A", "answer": "Kimono"},
+        {"identifier": "B", "answer": "Hanbok"},
+        {"identifier": "C", "answer": "Sari"},
+        {"identifier": "D", "answer": "Cheongsam"}
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "ppr001q006",
+      "question": "Which pattern is associated with Scottish traditional dress?",
+      "answers": [
+        {"identifier": "A", "answer": "Paisley"},
+        {"identifier": "B", "answer": "Houndstooth"},
+        {"identifier": "C", "answer": "Plaid"},
+        {"identifier": "D", "answer": "Chevron"}
+      ],
+      "correct_answer": "C"
+    }
+  ]
+}
